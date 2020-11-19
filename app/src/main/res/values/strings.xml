@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NYCSchoolsMVP</string>
+    <string name="tv_text_num_of_sat_test_takers">Num of SAT Test Takers:</string>
+    <string name="tv_text_sat_critical_reading_avg">SAT Critical Reading AVG:</string>
+    <string name="tv_text_sat_math_avg">SAT Math AVG:</string>
+    <string name="tv_text_sat_writing_avg">SAT Writing AVG:</string>
+    <string name="url_schools">https://data.cityofnewyork.us/resource/s3k6-pzi2.json</string>
+    <string name="url_sat">https://data.cityofnewyork.us/resource/f9bf-2cp4.json</string>
+</resources>
